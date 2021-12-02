@@ -3,11 +3,11 @@
 ## Start
 
 ```sh
-docker-compose up
+docker compose up
 ```
 
 ## Delete
 
 ```sh
-docker-compose down
+docker compose down
 ```
