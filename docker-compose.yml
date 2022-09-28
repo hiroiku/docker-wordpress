@@ -31,5 +31,5 @@ services:
       - db_data:/var/lib/mysql
 
 volumes:
-  # wp_data:
+  wp_data:
   db_data:
